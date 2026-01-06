@@ -12,10 +12,10 @@ If it solves real problems and scales clean, I'm in.
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajith-070106-j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajithjaganathan7@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/s4jith) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-000?logo=vercel&logoColor=white)](https://sajith.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajith-070106-j) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajithjaganathan7@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/s4jith) [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://sajith.app)
 
 ## 📄 Resume:
-[![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?logo=adobeacrobatreader&logoColor=white)](https://github.com/s4jith/resume/blob/main/Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-2ea44f?logo=adobeacrobatreader&logoColor=green)](https://github.com/s4jith/resume/blob/main/Resume.pdf)
 
 
 # 💻 Tech Stack:
