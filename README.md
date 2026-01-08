@@ -25,10 +25,5 @@ If it solves real problems and scales clean, I'm in.
 ![](https://nirzak-streak-stats.vercel.app/?user=s4jith&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s4jith&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 👀 Profile Visits
-
-![](https://visitcount.itsvg.in/api?id=s4jith&icon=0&color=0)
 
 
