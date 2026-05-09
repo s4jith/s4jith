@@ -12,7 +12,6 @@
 
 <br/>
 
-<img align="right" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4jith&theme=tokyonight&hide_border=true&layout=compact&langs_count=5&bg_color=0d1117" />
 
 ### Hey, I'm Sajith 👋
 
@@ -84,15 +83,10 @@ Occasionally I win hackathons too.
 📊  Amazon ML Challenge Top 8%  ·  4000+ teams  ·  multimodal pricing model
 ```
 
+
 ## 📊 stats
 
 <div align="center">
-
-<a href="https://github.com/s4jith">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=s4jith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117" />
-</a>
-
-<br/>
 
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=s4jith&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117" />
