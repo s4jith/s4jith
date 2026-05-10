@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Building+AI+systems+that+actually+ship+%F0%9F%9A%80;RAG+pipelines+%C2%B7+LLM+agents+%C2%B7+multi-sensor+fusion;Top+8%25+Amazon+ML+Challenge+%C2%B7+4000%2B+teams;If+it+solves+real+problems+and+scales+clean%2C+I%27m+in)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=818CF8&center=true&vCenter=true&width=620&lines=Building+AI+systems+that+actually+ship;RAG+pipelines+%C2%B7+LLM+agents;Top+8%25+Amazon+ML+Challenge+%C2%B7+4000%2B+teams;If+it+solves+real+problems+and+scales+clean%2C+I%27m+in)](https://git.io/typing-svg)
 
 </div>
 
