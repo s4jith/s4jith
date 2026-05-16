@@ -100,6 +100,6 @@ Occasionally I win hackathons too.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24243e,50:302b63,100:0f0c29&section=footer&animation=fadeIn" />
 
-<sub>open to AI/ML internships & collabs · jsajith76@gmail.com</sub>
+<sub>open to AI internships & collabs · jsajith76@gmail.com</sub>
 
 </div>
