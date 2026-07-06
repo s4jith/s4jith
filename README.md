@@ -32,72 +32,7 @@ Occasionally I win hackathons too.
 
 <br/>
 
-## ⚡ featured builds
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Anti-Venom](https://github.com/s4jith/Anti-Venom)
-
-Prompt-injection firewall for RAG pipelines. Scans documents **before** they're embedded and enforces trust at retrieval time — a 4-layer detection stack (regex → structural → semantic → fine-tuned DistilBERT) paired with an HMAC-signed *Trust Plane*, so poisoned chunks can't be promoted even if they slip into the vector store.
-
-`Python` `sentence-transformers` `LangChain` `LlamaIndex` `Haystack`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 [IntentDrive](https://github.com/s4jith/IntentDrive)
-
-Trajectory forecasting for vulnerable road users — a transformer predicts **6-second future paths from 2 seconds of motion history**, fusing camera, LiDAR & radar. *Math over pixels:* it models kinematics and social interaction, so it survives occlusion and bad lighting.
-
-**0.42 m minADE · 35.4% over baseline · ~17 FPS**
-
-`PyTorch` `FastAPI` `React` `Sensor Fusion`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ [URBot](https://github.com/s4jith/urbot)
-
-AI mock-interview platform with **adaptive difficulty and full voice interaction**. Hybrid inference — local Ollama for parsing & matching, Gemini for question generation — plus semantic question dedup, multi-key API load balancing, and a dashboard with topic heatmaps and speech-coaching analytics.
-
-`Next.js` `FastAPI` `MongoDB` `Redis` `Ollama` `Gemini`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧿 [SentinelAI](https://github.com/s4jith/SentinelAI)
-
-Tiered content-moderation engine protecting minors from cyberbullying. Local RoBERTa / EfficientNet / CLIP models clear safe content in **<50 ms**; ambiguous cases escalate to Gemini for context-level reasoning. *Context over keywords*, with graceful degradation and a real-time parent dashboard.
-
-`FastAPI` `Node.js` `Next.js` `Socket.io` `MongoDB`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [NCERT AI Tutor](https://github.com/s4jith/ncert-working)
-
-Multilingual, multimodal RAG tutor that **stays in-syllabus** instead of hallucinating off-curriculum answers. Intel OpenVINO-optimized inference, Pinecone retrieval, Gemini 2.0 reasoning, multi-role support and real-time learning analytics.
-
-`FastAPI` `React` `Pinecone` `OpenVINO` `Gemini 2.0`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [PredixX](https://github.com/s4jith/PredixX)
-
-ML engine forecasting Amazon product sales from historical data — the same modeling groundwork behind my **Top 8% of 4,000+ teams** finish in the Amazon ML Challenge.
-
-`Python` `scikit-learn` `Pandas` `Feature Engineering`
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <sub>more experiments in the <a href="https://github.com/s4jith?tab=repositories">full repo list</a> — some alive, some instructive fossils</sub>
